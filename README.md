@@ -19,3 +19,6 @@ Technology Stack
 
 ***I did not add the main js file as a separate file. and I added nessesory js parts in jsp and java files.***
 
+![cap1](https://user-images.githubusercontent.com/53108788/81211623-45410200-8ff1-11ea-9493-01777b81a3ee.PNG)
+
+![cap2](https://user-images.githubusercontent.com/53108788/81211636-483bf280-8ff1-11ea-8c32-fd3336a89b61.PNG)
